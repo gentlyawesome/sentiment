@@ -12,7 +12,7 @@ const { analyzeSentiment } = require("./lib/openai");
 
 // rate limiter
 const limiter = rateLimit({
-  windowMs: 5 * 60 * 1000,
+  windowMs: 15 * 60 * 1000,
   max: 5,
 });
 
