@@ -73,7 +73,7 @@ function App() {
                 ? "bg-green-500"
                 : sentiment === "Negative"
                 ? "bg-red-500"
-                : "bg-grey-500"
+                : "bg-gray-500"
             }
             p-2 text-white text-center w-full mt-4 rounded text-xl`}
           >
