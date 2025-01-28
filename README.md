@@ -1,0 +1,2 @@
+# Sentiment Analyzer
+**Sentiment Analyzer** is a powerful tool that helps you quickly assess the emotional tone of any text. Whether you're analyzing customer reviews, social media posts, or feedback, our app classifies sentiment into positive, negative, or neutral categories, giving you valuable insights into public opinion and emotional responses. Perfect for businesses, marketers, and content creators looking to understand and engage with their audience more effectively.
